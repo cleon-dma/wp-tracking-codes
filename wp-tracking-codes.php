@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: Wp Tracking Codes
+Plugin Name: WP Tracking Codes
 Plugin URI:  https://br.wordpress.org/plugins/wp-tracking-codes/
 Description: Centralize os códigos de acompanhamento em apenas um lugar. Suporte: Google Analytics, Google Adwords Remarketing, Facebook Pixel Code
 Version:     1.1.0
