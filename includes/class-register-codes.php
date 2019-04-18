@@ -31,8 +31,8 @@ class RegisterCodes extends Wp_Tracking_Codes{
     {
         add_submenu_page(
           'options-general.php',          // admin page slug
-          __( 'WP Tracking Codes', 'wptc' ), // page title
-          __( 'WP Tracking Codes', 'wptc' ), // menu title
+          __( 'Mã theo dõi', 'wptc' ), // page title
+          __( 'Mã theo dõi', 'wptc' ), // menu title
           'manage_options',               // capability required to see the page
           'wp-tracking-codes',                // admin page slug, e.g. options-general.php?page=wporg_options
           array( $this, 'create_admin_page' )            // callback function to display the options page
